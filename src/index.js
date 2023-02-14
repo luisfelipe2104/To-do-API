@@ -2,7 +2,7 @@ import express from "express"
 import mysql from "mysql"
 import cors from "cors"
 
-// creates an express app
+// creates an Express App
 const app = express()
 
 // port variable
